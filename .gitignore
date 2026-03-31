@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.env
+.bashrc
+.profile
+.cache/
+.docker/
+.git-credentials
+.DS_Store
+Thumbs.d
