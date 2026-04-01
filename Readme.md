@@ -16,3 +16,13 @@
 - Learned Docker basics
 - Ran containers (Ubuntu, Nginx)
 - Port mapping and container management
+
+## Day 5
+- learned about Docker file
+- created a simple Node.js app
+- Built a custom Docker Image
+- Ran container from my own image
+- commands Used
+	- docker build -t my-app
+	- docker run my-app
+  	- docker images
