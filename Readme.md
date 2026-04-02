@@ -26,3 +26,16 @@
 	- docker build -t my-app
 	- docker run my-app
   	- docker images
+## Day 6 - Running Backend in Docker 🚀
+
+- Created a simple Node.js HTTP server
+- Ran backend server on port 3000
+- Dockerized the backend using Dockerfile
+- Built Docker image for backend app
+- Ran container with port mapping
+- Accessed backend from browser (localhost:3000)
+- Commands Used
+	- docker build -t devops-app .
+	- docker run -d -p 3000:3000 devops-app
+	- docker ps
+	- docker stop <container_id>
