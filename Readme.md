@@ -1,4 +1,4 @@
-# DevOps Learning Journey 🚀
+# DevOps Learning Journey 
 
 ## Day 1
 - Learned DevOps basics
@@ -26,7 +26,7 @@
 	- docker build -t my-app
 	- docker run my-app
   	- docker images
-## Day 6 - Running Backend in Docker 🚀
+## Day 6 - Running Backend in Docker 
 
 - Created a simple Node.js HTTP server
 - Ran backend server on port 3000
@@ -39,3 +39,16 @@
 	- docker run -d -p 3000:3000 devops-app
 	- docker ps
 	- docker stop <container_id>
+
+## Day 7 - Docker Compose 
+
+- Learned what Docker Compose is
+- Understood multi-container application concept
+- Created docker-compose.yml file
+- Ran backend app using Docker Compose
+- Managed container lifecycle with a single command
+
+### Commands Used
+- docker compose up
+- docker compose down
+- docker ps
