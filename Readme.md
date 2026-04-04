@@ -52,3 +52,11 @@
 - docker compose up
 - docker compose down
 - docker ps
+
+## Day 8 CI/CD with GitHub Actions
+
+- Learned CI/CD concepts (Continuous Integration & Deployment)
+- Created first CI pipeline using GitHub Actions
+- Understood workflow automation on code push
+- Built Docker image automatically using pipeline
+- Learned about GitHub security (PAT with workflow scope)
