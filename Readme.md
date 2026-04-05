@@ -60,3 +60,12 @@
 - Understood workflow automation on code push
 - Built Docker image automatically using pipeline
 - Learned about GitHub security (PAT with workflow scope)
+
+## Day 9 - CI/CD with Docker Integration
+
+- Improved CI/CD pipeline using GitHub Actions
+- Built Docker image automatically in pipeline
+- Pushed Docker image to Docker Hub
+- Used GitHub Secrets to store credentials securely
+- Learned how CI/CD connects code with deployment artifacts
+
