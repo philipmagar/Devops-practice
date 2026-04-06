@@ -47,11 +47,10 @@
 - Created docker-compose.yml file
 - Ran backend app using Docker Compose
 - Managed container lifecycle with a single command
-
 ### Commands Used
-- docker compose up
-- docker compose down
-- docker ps
+	- docker compose up
+	- docker compose down
+	- docker ps
 
 ## Day 8 CI/CD with GitHub Actions
 
@@ -67,5 +66,17 @@
 - Built Docker image automatically in pipeline
 - Pushed Docker image to Docker Hub
 - Used GitHub Secrets to store credentials securely
-- Learned how CI/CD connects code with deployment artifacts
+- Learned how CI/CD connects code with deployment
 
+## Day 10 - Deployment using Docker Hub 🚀
+
+- Learned how deployment works in real DevOps workflow
+- Pulled Docker image from Docker Hub
+- Ran container using pulled image
+- Exposed application using port mapping
+- Accessed deployed app via browser (localhost)
+### Commands Used
+	- docker pull <username>/devops-app
+	- docker run -d -p 4000:3000 <username>/devops-app
+	- docker ps
+	- docker stop <container_id>
