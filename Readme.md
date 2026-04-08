@@ -80,3 +80,29 @@
 	- docker run -d -p 4000:3000 <username>/devops-app
 	- docker ps
 	- docker stop <container_id>
+
+## Day 11 - Cloud Deployment (Render) 
+
+- Deployed application using Render (free cloud platform)
+- Connected GitHub repository to Render
+- Used Dockerfile for deployment
+- Got a public URL for the app
+- Understood real-world deployment flow
+### Concepts Learned
+- Cloud deployment
+- Hosting containers online
+- Connecting GitHub with cloud platform
+
+## Day 12 - Nginx Reverse Proxy
+
+- Learned what Nginx is and how it works
+- Understood reverse proxy architecture
+- Configured Nginx to forward requests to backend
+- Used Docker Compose to run multiple containers (app + nginx)
+- Accessed app through Nginx (port 8080)
+### Concepts Learned
+- Reverse proxy
+- Multi-container architecture
+- Service communication in Docker
+
+---
