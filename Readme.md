@@ -105,4 +105,25 @@
 - Multi-container architecture
 - Service communication in Docker
 
+## Day 13 - Environment Variables 
+
+- Learned how to use environment variables in Node.js
+- Created `.env` file for configuration
+- Used env variables inside Docker containers
+- Improved app flexibility without changing code
+
+## Day 14 - Production Optimization
+
+- Used lightweight Node.js image (alpine)
+- Improved Dockerfile for production
+- Created `.dockerignore` to reduce image size
+- Learned best practices for container builds
+
+## Day 15 - Health Check & Logging 
+
+- Added `/health` endpoint for monitoring
+- Implemented basic request logging
+- Added Docker healthcheck for container status
+- Learned importance of monitoring in DevOps
+
 ---
