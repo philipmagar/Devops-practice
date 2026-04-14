@@ -126,4 +126,18 @@
 - Added Docker healthcheck for container status
 - Learned importance of monitoring in DevOps
 
----
+## Day 17 - Monitoring & Debugging 📊
+
+- Learned how to monitor Docker containers
+- Used docker logs to debug issues
+- Inspected container details
+- Entered running container for troubleshooting
+- Understood importance of logging and health checks
+### Commands Used
+	- docker ps
+	- docker logs
+	- docker logs -f
+	- docker inspect
+	- docker exec -it <container> bash
+
+----
