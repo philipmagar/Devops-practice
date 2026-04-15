@@ -140,4 +140,16 @@
 	- docker inspect
 	- docker exec -it <container> bash
 
+## Day 18 - Docker Volumes 
+
+- Learned about data persistence in Docker
+- Used volumes to store data outside containers
+- Tested file persistence after container restart
+- Understood importance of persistent storage
+### Commands Used
+	- docker volume ls
+	- docker volume inspect
+	- docker run -v
+	- docker exec
+
 ----
