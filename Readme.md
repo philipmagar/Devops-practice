@@ -151,5 +151,18 @@
 	- docker volume inspect
 	- docker run -v
 	- docker exec
+## Day 19 - Docker Networking 
+
+- Learned how Docker networking works
+- Created custom Docker network
+- Connected multiple containers in same network
+- Used service names for communication
+- Tested container-to-container communication
+### Commands Used
+	- docker network create
+	- docker network ls
+	- docker network inspect
+	- docker run --network
+	- docker exec
 
 ----
