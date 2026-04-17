@@ -151,6 +151,7 @@
 	- docker volume inspect
 	- docker run -v
 	- docker exec
+
 ## Day 19 - Docker Networking 
 
 - Learned how Docker networking works
@@ -165,4 +166,20 @@
 	- docker run --network
 	- docker exec
 
+## Day 20 - Final DevOps Project 
+
+- Built complete DevOps project using Docker & Nginx
+- Implemented reverse proxy architecture
+- Used environment variables for configuration
+- Added Docker volumes for persistence
+- Combined multiple services using Docker Compose
+
+### Architecture
+User → Nginx → Backend → Volume
+
+### Features
+- Health check endpoint
+- Logging system
+- Multi-container setup
+- Production-ready structure
 ----
